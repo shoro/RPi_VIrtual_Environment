@@ -5,7 +5,7 @@ To create a virtual environment on a Raspberry Pi 4, you'll typically be using P
 First, ensure that your Raspberry Pi's package lists are up to date.
 ```
 sudo apt-get update
-sudo apt-get upgrade
+sudo apt-get upgrade -y
 ```
 
 ### 2. Install Python (if not already installed):
